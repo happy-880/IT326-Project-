@@ -6,6 +6,7 @@ IT326-DataMining Project
 
 # Project Motivation
 **Why we chose this problem?**
+
   We chose this problem because student dropout is a major challenge in universities. Instead of waiting for students to fail, we want to use data mining to identify early warning signs and help students before they decide to leave.
 
 * **Why is this topic important?**
