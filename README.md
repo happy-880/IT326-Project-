@@ -5,7 +5,14 @@ IT326-DataMining Project
 {write her}
 
 # Project Motivation
-{write her}
+**Why we chose this problem?**
+  We chose this problem because student dropout is a major challenge in universities. Instead of waiting for students to fail, we want to use data mining to identify early warning signs and help students before they decide to leave.
+
+* **Why is this topic important?**
+  1. **Early Intervention:** Detecting at-risk students early allows academic advisors to step in and offer support in time.
+  2. **Multiple Influencing Factors:** Student performance is affected by many factors at once—academic grades, financial status, and personal background. Machine learning helps us analyze all these factors together accurately.
+  3. **Data-Driven Decisions:** The results provide clear insights that help universities improve their student support systems and retention rates.
+
 
 # Student's Names
 1. Rawan ALDawood
