@@ -12,4 +12,5 @@ IT326-DataMining Project
 2. Lamar Alanteet
 3. Aroub Alawad
 4. Joury Alsudairi
-5. [Student Name]
+5. Lian Alzahrani 
+
