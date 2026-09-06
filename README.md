@@ -8,8 +8,8 @@ IT326-DataMining Project
 {write her}
 
 # Student's Names
-1. [Rawan ALDawood]
-2. [Student Name]
-3. [Student Name]
-4. [Student Name]
+1. Rawan ALDawood
+2. Lamar Alanteet
+3. Aroub Alawad
+4. Joury Alsudairi
 5. [Student Name]
