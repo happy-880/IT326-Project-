@@ -2,7 +2,7 @@
 IT326-DataMining Project
 
 # Project Description
-This project studies students’ academic outcomes based on their characteristics and academic information. The main goal is to apply data mining techniques to analyze student data and identify patterns related to their academic status.
+This project studies students academic outcomes based on their characteristics and academic information. The main goal is to apply data mining techniques to analyze student data and identify patterns related to their academic status.
 
 For the Classification task, students will be classified into three categories: Dropout, Enrolled, and Graduate.
 
